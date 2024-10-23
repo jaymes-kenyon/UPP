@@ -341,6 +341,16 @@
        </param>
 
        <param>
+           <shortname>GSD_EXP_CEILING</shortname>
+           <scale>-3.0</scale>
+       </param>
+
+       <param>
+           <shortname>GSD_EXP_CEILING_2</shortname>
+           <scale>-3.0</scale>
+       </param>
+
+       <param>
             <shortname>GSD_HGT_ON_CLOUD_BASE</shortname>
             <scale>-3.0</scale>
        </param>
